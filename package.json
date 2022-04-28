@@ -1,0 +1,14 @@
+{
+  "name": "fetch-th",
+  "version": "1.0.0",
+  "description": "Take Home Backend Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aram Balayan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
